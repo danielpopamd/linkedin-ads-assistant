@@ -1,0 +1,10 @@
+{
+  "id": "linkedin-ads-assistant",
+  "name": "LinkedIn Ads Assistant",
+  "description": "Manage LinkedIn Ads from your AI assistant over the AdPlug MCP server: reporting, audience targeting, the public Ad Library, and safe preview-then-execute edits. Requires a free AdPlug account (sign in and connect LinkedIn Ads at adplug.app).",
+  "version": "1.0.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false
+  }
+}
