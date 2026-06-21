@@ -1,0 +1,19 @@
+{
+  "name": "linkedin-ads-assistant",
+  "version": "1.0.0",
+  "description": "Manage LinkedIn Ads from your AI assistant: campaign and creative reporting, audience targeting lookups, lead-gen and conversion data, the public Ad Library, and safe preview-then-execute edits over the AdPlug MCP server. Requires a free AdPlug account (sign in and connect LinkedIn Ads at adplug.app).",
+  "author": {
+    "name": "AdPlug",
+    "url": "https://adplug.app"
+  },
+  "homepage": "https://adplug.app/integrations/linkedin-ads",
+  "repository": "https://github.com/danielpopamd/linkedin-ads-assistant",
+  "keywords": [
+    "linkedin-ads",
+    "ppc",
+    "paid-social",
+    "advertising",
+    "marketing",
+    "mcp"
+  ]
+}

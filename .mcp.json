@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "linkedin-ads-assistant": {
+      "type": "http",
+      "url": "https://api.adplug.app/mcp/linkedin-ads",
+      "auth": "oauth"
+    }
+  }
+}
